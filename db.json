@@ -2,7 +2,8 @@
   "movies": [
     {
       "id": 1,
-      "title": "Pulp Fiction"
+      "title": "Pulp Fiction",
+      "descripcion": "Dos matones, Vincent y Jules visitan a un grupo de jóvenes que le deben algo a su jefe, lo que desencadena una matanza y la posterior recuperación de la deuda (un maletín cuyo contenido desconocemos). Casi son asesinados por un joven que estaba escondido, pero las balas no los tocan",
     },
     {
       "id": 2,

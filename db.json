@@ -1,126 +1,94 @@
 {
   "movies": [
     {
-      "id": 1,
-      "title": "Pulp Fiction",
-      "descripcion": "Dos matones, Vincent y Jules visitan a un grupo de jóvenes que le deben algo a su jefe, lo que desencadena una matanza y la posterior recuperación de la deuda (un maletín cuyo contenido desconocemos). Casi son asesinados por un joven que estaba escondido, pero las balas no los tocan",
-      "img": "https://raw.githubusercontent.com/mathiasurbina/peliculas/main/imagenes/p1.jpg"
-    },
-    {
-      "id": 2,
-      "title": "Goodfellas",
-      "descripcion": "La historia sigue la vida de Henry Hill, un joven que se adentra en el mundo de la mafia en Nueva York durante las décadas de 1950 a 1980. Desde sus inicios como un chico de recados hasta convertirse en un miembro influyente del sindicato del crimen, Henry narra su ascenso y eventual caída en el submundo criminal. La película destaca la camaradería, la violencia y la traición dentro de la mafia, mostrando el glamour y el precio de la vida criminal. A lo largo de la historia, se exploran las complejidades de las relaciones y la moralidad en un entorno donde la lealtad puede ser tan mortal como la traición.",
-      "img": "https://raw.githubusercontent.com/mathiasurbina/peliculas/main/imagenes/p2.jpg"
-    },
-    {
-      "id": 3,
-      "title": "The godfather",
-      "descripcion": "La historia sigue a la poderosa familia Corleone, liderada por Vito Corleone, uno de los capos más respetados y temidos de la mafia en Nueva York. La trama se centra en la transición de poder dentro de la familia, especialmente en Michael Corleone, el hijo menor de Vito, que inicialmente intenta mantenerse alejado del negocio familiar pero eventualmente se ve arrastrado y asume el liderazgo. A lo largo de la película, se exploran temas de poder, familia, honor y traición, mientras Michael se transforma de un joven idealista en un despiadado jefe de la mafia. La historia es un retrato profundo de la moralidad y la corrupción, mostrando tanto el glamour como la brutalidad de la vida criminal.",
-      "img": "https://raw.githubusercontent.com/mathiasurbina/peliculas/main/imagenes/p3.jpg"
-    },
-    {
-      "id": 4,
-      "title": "Interstellar",
-      "descripcion": "La historia está ambientada en un futuro distópico donde la Tierra se enfrenta a un colapso ambiental que amenaza la supervivencia de la humanidad. El ex piloto de la NASA Cooper, ahora convertido en agricultor, es reclutado para una misión espacial junto a un equipo de científicos. Su objetivo es viajar a través de un agujero de gusano cerca de Saturno para encontrar un nuevo planeta habitable.\nDurante su viaje, el equipo enfrenta desafíos extremos, incluidos los efectos de la relatividad en el tiempo, planetas inhóspitos y la tensión emocional de estar separados de sus seres queridos. La misión pone a prueba su ingenio, su resistencia y sus relaciones, especialmente la de Cooper con su hija Murph, quien trabaja en la Tierra para resolver una ecuación crucial para salvar a la humanidad. Interstellar explora temas de amor, sacrificio y el infinito potencial del espíritu humano, con un fuerte énfasis en la ciencia y la exploración espacial.",
-      "img": "https://raw.githubusercontent.com/mathiasurbina/peliculas/main/imagenes/p4.jpg"
-    },
-    {
-      "id": 5,
-      "title": "TLOTR",
-      "descripcion": "La trilogía sigue la épica aventura de Frodo Bolsón y su compañía para destruir el Anillo Único y derrotar a Sauron, el Señor Oscuro. Ambientada en la Tierra Media, Frodo es acompañado por un variado grupo que incluye a Aragorn, Legolas, Gimli, Gandalf y otros valientes compañeros. A lo largo de su viaje, enfrentan peligros, pruebas y batallas monumentales mientras se enfrentan al mal en su misión para salvar a la Tierra Media de la oscuridad eterna.\n\nLa trilogía, basada en la obra maestra literaria de J.R.R. Tolkien, es una epopeya de valor, amistad y sacrificio, con una rica mitología y personajes inolvidables que han cautivado a generaciones.",
-      "img": "https://raw.githubusercontent.com/mathiasurbina/peliculas/main/imagenes/p5.jpg"
-    },
-    {
       "id": 6,
       "title": "The good, the bad, the ugly",
-      "descripcion": "",
+      "descripcion": "En el viejo oeste, tres pistoleros buscan un tesoro enterrado mientras se enfrentan en un juego mortal de astucia y violencia.",
       "img": "https://raw.githubusercontent.com/mathiasurbina/peliculas/main/imagenes/p6.jpg"
     },
     {
       "id": 7,
       "title": "Fight Club",
-      "descripcion": "",
+      "descripcion": "Un hombre insomne y su carismático pero desequilibrado compañero crean un club clandestino donde hombres luchan como terapia para liberar su frustración y angustia existencial.",
       "img": "https://raw.githubusercontent.com/mathiasurbina/peliculas/main/imagenes/p7.jpg"
     },
     {
       "id": 8,
       "title": "Cinema Paradiso",
-      "descripcion": "",
+      "descripcion": "Un cineasta recuerda su infancia y juventud en un pequeño pueblo italiano, especialmente su amistad con el proyeccionista del cine local.",
       "img": "https://raw.githubusercontent.com/mathiasurbina/peliculas/main/imagenes/p8.jpg"
     },
     {
       "id": 9,
       "title": "Se7en",
-      "descripcion": "",
+      "descripcion": "Dos detectives, uno a punto de retirarse y otro recién asignado, persiguen a un astuto asesino en serie que utiliza los siete pecados capitales como su modus operandi en sus crímenes.",
       "img": "https://raw.githubusercontent.com/mathiasurbina/peliculas/main/imagenes/p9.jpg"
     },
     {
       "id": 10,
       "title": "Once Upon a Time In America",
-      "descripcion": "",
+      "descripcion": "Cuatro amigos crecen en el barrio criminal de Nueva York durante las décadas de 1920 y 1930. A medida que escalan en el mundo del crimen organizado, enfrentan traiciones y el costo personal de sus elecciones.",
       "img": "https://raw.githubusercontent.com/mathiasurbina/peliculas/main/imagenes/p10.jpg"
     },
     {
       "id": 11,
       "title": "Taxi Driver",
-      "descripcion": "",
+      "descripcion": "Travis Bickle, un veterano de Vietnam alienado, se convierte en un taxista nocturno en Nueva York y se sumerge en una espiral de violencia y locura mientras intenta limpiar la ciudad de la decadencia que ve a su alrededor.",
       "img": "https://raw.githubusercontent.com/mathiasurbina/peliculas/main/imagenes/p11.jpg"
     },
     {
       "id": 12,
       "title": "The Big Lebowski",
-      "descripcion": "",
+      "descripcion": "Jeffrey Lebowski, alias 'El Gran Lebowski', un perezoso fanático del bowling, se ve envuelto en una serie de eventos absurdos y surrealistas después de que unos matones confunden su identidad y destrozan su alfombra.",
       "img": "https://raw.githubusercontent.com/mathiasurbina/peliculas/main/imagenes/p12.jpg"
     },
     {
       "id": 13,
       "title": "Memories Of Murder",
-      "descripcion": "",
+      "descripcion": "Basada en hechos reales, la película sigue a dos detectives mientras intentan resolver el caso de asesinatos en serie más misterioso y brutal de Corea del Sur durante la década de 1980.",
       "img": "https://raw.githubusercontent.com/mathiasurbina/peliculas/main/imagenes/p13.jpg"
     },
     {
       "id": 14,
       "title": "The Silence Of The Lambs",
-      "descripcion": "",
+      "descripcion": "Una agente del FBI busca la ayuda de un brillante pero peligroso psiquiatra encarcelado, Dr. Hannibal Lecter, para atrapar a otro asesino en serie que desolla a sus víctimas.",
       "img": "https://raw.githubusercontent.com/mathiasurbina/peliculas/main/imagenes/p14.jpg"
     },
     {
       "id": 15,
       "title": "One Flew Over The Cuckoos Nest",
-      "descripcion": "",
+      "descripcion": "Un criminal finge locura para evitar la cárcel y termina en un hospital psiquiátrico, donde desafía la autoridad de la enfermera Ratched y revitaliza a los pacientes con su espíritu libre y rebeldía.",
       "img": "https://raw.githubusercontent.com/mathiasurbina/peliculas/main/imagenes/p15.jpg"
     },
     {
       "id": 16,
       "title": "Blade Runner",
-      "descripcion": "",
+      "descripcion": "En un futuro distópico, un ex policía conocido como 'blade runner' es contratado para retirar replicantes rebeldes, androides casi indistinguibles de los humanos, desatando preguntas sobre la identidad y la humanidad.",
       "img": "https://raw.githubusercontent.com/mathiasurbina/peliculas/main/imagenes/p16.jpg"
     },
     {
       "id": 17,
       "title": "The Departed",
-      "descripcion": "",
+      "descripcion": "Un joven policía se infiltra en una organización criminal irlandesa mientras un criminal ambicioso se infiltra en la policía. Ambos descubren que tienen un espía en su interior, lo que los lleva a una peligrosa y mortal confrontación.",
       "img": "https://raw.githubusercontent.com/mathiasurbina/peliculas/main/imagenes/p17.jpg"
     },
     {
       "id": 18,
       "title": "Shutter Island",
-      "descripcion": "",
+      "descripcion": "Dos agentes federales investigan la desaparición de una paciente en un hospital psiquiátrico en una isla remota. A medida que profundizan en el caso, descubren secretos perturbadores que desafían su propia cordura.",
       "img": "https://raw.githubusercontent.com/mathiasurbina/peliculas/main/imagenes/p18.jpg"
     },
     {
       "id": 19,
       "title": "Apocalypse Now",
-      "descripcion": "",
+      "descripcion": "Durante la guerra de Vietnam, un capitán del ejército estadounidense recibe la misión de asesinar a un coronel renegado que ha establecido un reino autocrático en la jungla, enfrentándose a los horrores de la guerra y la locura humana.",
       "img": "https://raw.githubusercontent.com/mathiasurbina/peliculas/main/imagenes/p19.jpg"
     },
     {
       "id": 20,
       "title": "Inglorious Basterds",
-      "descripcion": "",
+      "descripcion": "Durante la Segunda Guerra Mundial, un grupo de soldados judíos-americanos se embarca en una misión para cazar y matar nazis, mientras una joven judía busca vengarse de los responsables de la muerte de su familia.",
       "img": "https://raw.githubusercontent.com/mathiasurbina/peliculas/main/imagenes/p20.jpg"
     }
-    
-    
   ]
 }

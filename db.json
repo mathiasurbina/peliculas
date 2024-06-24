@@ -1,5 +1,35 @@
 {
   "movies": [
+     {
+      "id": 1,
+      "title": "Pulp Fiction",
+      "descripcion": "Dos matones, Vincent y Jules visitan a un grupo de jóvenes que le deben algo a su jefe, lo que desencadena una matanza y la posterior recuperación de la deuda (un maletín cuyo contenido desconocemos). Casi son asesinados por un joven que estaba escondido, pero las balas no los tocan",
+      "img": "https://raw.githubusercontent.com/mathiasurbina/peliculas/main/imagenes/p1.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Goodfellas",
+      "descripcion": "La historia sigue la vida de Henry Hill, un joven que se adentra en el mundo de la mafia en Nueva York durante las décadas de 1950 a 1980. Desde sus inicios como un chico de recados hasta convertirse en un miembro influyente del sindicato del crimen, Henry narra su ascenso y eventual caída en el submundo criminal. La película destaca la camaradería, la violencia y la traición dentro de la mafia, mostrando el glamour y el precio de la vida criminal. A lo largo de la historia, se exploran las complejidades de las relaciones y la moralidad en un entorno donde la lealtad puede ser tan mortal como la traición.",
+      "img": "https://raw.githubusercontent.com/mathiasurbina/peliculas/main/imagenes/p2.jpg"
+    },
+    {
+      "id": 3,
+      "title": "The godfather",
+      "descripcion": "La historia sigue a la poderosa familia Corleone, liderada por Vito Corleone, uno de los capos más respetados y temidos de la mafia en Nueva York. La trama se centra en la transición de poder dentro de la familia, especialmente en Michael Corleone, el hijo menor de Vito, que inicialmente intenta mantenerse alejado del negocio familiar pero eventualmente se ve arrastrado y asume el liderazgo. A lo largo de la película, se exploran temas de poder, familia, honor y traición, mientras Michael se transforma de un joven idealista en un despiadado jefe de la mafia. La historia es un retrato profundo de la moralidad y la corrupción, mostrando tanto el glamour como la brutalidad de la vida criminal.",
+      "img": "https://raw.githubusercontent.com/mathiasurbina/peliculas/main/imagenes/p3.jpg"
+    },
+    {
+      "id": 4,
+      "title": "Interstellar",
+      "descripcion": "La historia está ambientada en un futuro distópico donde la Tierra se enfrenta a un colapso ambiental que amenaza la supervivencia de la humanidad. El ex piloto de la NASA Cooper, ahora convertido en agricultor, es reclutado para una misión espacial junto a un equipo de científicos. Su objetivo es viajar a través de un agujero de gusano cerca de Saturno para encontrar un nuevo planeta habitable.\nDurante su viaje, el equipo enfrenta desafíos extremos, incluidos los efectos de la relatividad en el tiempo, planetas inhóspitos y la tensión emocional de estar separados de sus seres queridos. La misión pone a prueba su ingenio, su resistencia y sus relaciones, especialmente la de Cooper con su hija Murph, quien trabaja en la Tierra para resolver una ecuación crucial para salvar a la humanidad. Interstellar explora temas de amor, sacrificio y el infinito potencial del espíritu humano, con un fuerte énfasis en la ciencia y la exploración espacial.",
+      "img": "https://raw.githubusercontent.com/mathiasurbina/peliculas/main/imagenes/p4.jpg"
+    },
+    {
+      "id": 5,
+      "title": "TLOTR",
+      "descripcion": "La trilogía sigue la épica aventura de Frodo Bolsón y su compañía para destruir el Anillo Único y derrotar a Sauron, el Señor Oscuro. Ambientada en la Tierra Media, Frodo es acompañado por un variado grupo que incluye a Aragorn, Legolas, Gimli, Gandalf y otros valientes compañeros. A lo largo de su viaje, enfrentan peligros, pruebas y batallas monumentales mientras se enfrentan al mal en su misión para salvar a la Tierra Media de la oscuridad eterna.\n\nLa trilogía, basada en la obra maestra literaria de J.R.R. Tolkien, es una epopeya de valor, amistad y sacrificio, con una rica mitología y personajes inolvidables que han cautivado a generaciones.",
+      "img": "https://raw.githubusercontent.com/mathiasurbina/peliculas/main/imagenes/p5.jpg"
+    },
     {
       "id": 6,
       "title": "The good, the bad, the ugly",

@@ -15,15 +15,15 @@
     {
       "id": 3,
       "title": "The godfather",
-      "descripcion": "La historia sigue a la poderosa familia Corleone, liderada por Vito Corleone, uno de los capos más respetados y temidos de la mafia en Nueva York. La trama se centra en la transición de poder dentro de la familia, especialmente en Michael Corleone, el hijo menor de Vito, que inicialmente intenta mantenerse alejado del negocio familiar pero eventualmente se ve arrastrado y asume el liderazgo.
-
-A lo largo de la película, se exploran temas de poder, familia, honor y traición, mientras Michael se transforma de un joven idealista en un despiadado jefe de la mafia. La historia es un retrato profundo de la moralidad y la corrupción, mostrando tanto el glamour como la brutalidad de la vida criminal.",
+      "descripcion": "La historia sigue a la poderosa familia Corleone, liderada por Vito Corleone, uno de los capos más respetados y temidos de la mafia en Nueva York. La trama se centra en la transición de poder dentro de la familia, especialmente en Michael Corleone, el hijo menor de Vito, que inicialmente intenta mantenerse alejado del negocio familiar pero eventualmente se ve arrastrado y asume el liderazgo. A lo largo de la película, se exploran temas de poder, familia, honor y traición, mientras Michael se transforma de un joven idealista en un despiadado jefe de la mafia. La historia es un retrato profundo de la moralidad y la corrupción, mostrando tanto el glamour como la brutalidad de la vida criminal.",
       "img": "https://raw.githubusercontent.com/mathiasurbina/peliculas/main/imagenes/p3.jpg"
     },
     {
       "id": 4,
       "title": "Interstellar",
-      "descripcion": "",
+      "descripcion": "La historia está ambientada en un futuro distópico donde la Tierra se enfrenta a un colapso ambiental que amenaza la supervivencia de la humanidad. El ex piloto de la NASA Cooper, ahora convertido en agricultor, es reclutado para una misión espacial junto a un equipo de científicos. Su objetivo es viajar a través de un agujero de gusano cerca de Saturno para encontrar un nuevo planeta habitable.
+
+Durante su viaje, el equipo enfrenta desafíos extremos, incluidos los efectos de la relatividad en el tiempo, planetas inhóspitos y la tensión emocional de estar separados de sus seres queridos. La misión pone a prueba su ingenio, su resistencia y sus relaciones, especialmente la de Cooper con su hija Murph, quien trabaja en la Tierra para resolver una ecuación crucial para salvar a la humanidad. "Interstellar" explora temas de amor, sacrificio y el infinito potencial del espíritu humano, con un fuerte énfasis en la ciencia y la exploración espacial.",
       "img": "https://raw.githubusercontent.com/mathiasurbina/peliculas/main/imagenes/p4.jpg"
     },
     {

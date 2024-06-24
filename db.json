@@ -15,8 +15,50 @@
     {
       "id": 3,
       "title": "The godfather",
-      "descripcion": "Dos matones, Vincent y Jules visitan a un grupo de jóvenes que le deben algo a su jefe, lo que desencadena una matanza y la posterior recuperación de la deuda (un maletín cuyo contenido desconocemos). Casi son asesinados por un joven que estaba escondido, pero las balas no los tocan",
+      "descripcion": "",
       "img": "https://raw.githubusercontent.com/mathiasurbina/peliculas/main/imagenes/p3.jpg"
+    },
+    {
+      "id": 4,
+      "title": "Interstellar",
+      "descripcion": "",
+      "img": "https://raw.githubusercontent.com/mathiasurbina/peliculas/main/imagenes/p4.jpg"
+    },
+    {
+      "id": 5,
+      "title": "TLOTR",
+      "descripcion": "",
+      "img": "https://raw.githubusercontent.com/mathiasurbina/peliculas/main/imagenes/p5.jpg"
+    },
+    {
+      "id": 6,
+      "title": "The good, the bad, the ugly",
+      "descripcion": "",
+      "img": "https://raw.githubusercontent.com/mathiasurbina/peliculas/main/imagenes/p6.jpg"
+    },
+    {
+      "id": 7,
+      "title": "Fight Club",
+      "descripcion": "",
+      "img": "https://raw.githubusercontent.com/mathiasurbina/peliculas/main/imagenes/p7.jpg"
+    },
+    {
+      "id": 8,
+      "title": "Cinema Paradiso",
+      "descripcion": "",
+      "img": "https://raw.githubusercontent.com/mathiasurbina/peliculas/main/imagenes/p8.jpg"
+    },
+    {
+      "id": 9,
+      "title": "Se7en",
+      "descripcion": "",
+      "img": "https://raw.githubusercontent.com/mathiasurbina/peliculas/main/imagenes/p9.jpg"
+    },
+    {
+      "id": 10,
+      "title": "Once Upon a Time In America",
+      "descripcion": "",
+      "img": "https://raw.githubusercontent.com/mathiasurbina/peliculas/main/imagenes/p10.jpg"
     }
     
     

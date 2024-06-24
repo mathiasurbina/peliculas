@@ -9,13 +9,15 @@
     {
       "id": 2,
       "title": "Goodfellas",
-      "descripcion": "Dos matones, Vincent y Jules visitan a un grupo de jóvenes que le deben algo a su jefe, lo que desencadena una matanza y la posterior recuperación de la deuda (un maletín cuyo contenido desconocemos). Casi son asesinados por un joven que estaba escondido, pero las balas no los tocan",
+      "descripcion": "La historia sigue la vida de Henry Hill, un joven que se adentra en el mundo de la mafia en Nueva York durante las décadas de 1950 a 1980. Desde sus inicios como un chico de recados hasta convertirse en un miembro influyente del sindicato del crimen, Henry narra su ascenso y eventual caída en el submundo criminal. La película destaca la camaradería, la violencia y la traición dentro de la mafia, mostrando el glamour y el precio de la vida criminal. A lo largo de la historia, se exploran las complejidades de las relaciones y la moralidad en un entorno donde la lealtad puede ser tan mortal como la traición.",
       "img": "https://raw.githubusercontent.com/mathiasurbina/peliculas/main/imagenes/p2.jpg"
     },
     {
       "id": 3,
       "title": "The godfather",
-      "descripcion": "",
+      "descripcion": "La historia sigue a la poderosa familia Corleone, liderada por Vito Corleone, uno de los capos más respetados y temidos de la mafia en Nueva York. La trama se centra en la transición de poder dentro de la familia, especialmente en Michael Corleone, el hijo menor de Vito, que inicialmente intenta mantenerse alejado del negocio familiar pero eventualmente se ve arrastrado y asume el liderazgo.
+
+A lo largo de la película, se exploran temas de poder, familia, honor y traición, mientras Michael se transforma de un joven idealista en un despiadado jefe de la mafia. La historia es un retrato profundo de la moralidad y la corrupción, mostrando tanto el glamour como la brutalidad de la vida criminal.",
       "img": "https://raw.githubusercontent.com/mathiasurbina/peliculas/main/imagenes/p3.jpg"
     },
     {

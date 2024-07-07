@@ -5,7 +5,11 @@
       "title": "Pulp Fiction",
       "descripcion": "Dos matones, Vincent y Jules visitan a un grupo de jóvenes que le deben algo a su jefe, lo que desencadena una matanza y la posterior recuperación de la deuda (un maletín cuyo contenido desconocemos). Casi son asesinados por un joven que estaba escondido, pero las balas no los tocan",
       "img": "https://raw.githubusercontent.com/mathiasurbina/peliculas/main/imagenes/p1.jpg",
-      "reparto": "John Travolta, Uma Thurman, Samuel L. Jackson"
+      "reparto": [
+        {"name": "John Travolta", "img": "https://raw.githubusercontent.com/mathiasurbina/peliculas/main/imagenes/johntravolta.jpg"},
+        {"name": "Uma Thurman", "img": "https://raw.githubusercontent.com/mathiasurbina/peliculas/main/imagenes/umathurman.jpg"},
+        {"name": "Samuel L. Jackson", "img": "https://raw.githubusercontent.com/mathiasurbina/peliculas/main/imagenes/samuelljackson.jpg"}
+      ]
     },
     {
       "id": 2,
